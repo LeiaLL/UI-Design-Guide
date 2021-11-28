@@ -1,0 +1,36 @@
+.container {
+  margin: 25px;
+}
+
+header {
+  margin: 30px 10px;
+  width: 105%;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+}
+
+ol {
+  padding-left: 0;
+}
+
+header li {
+  list-style-type: disc;
+  margin: 2px;
+  line-height: 1.5;
+}
+
+.guidelines {
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+}
+
+.guideline {
+  width: 300px;
+  min-width: 180px;
+  margin: 20px;
+}
