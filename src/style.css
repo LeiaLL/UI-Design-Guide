@@ -201,6 +201,97 @@ a {
 }
 /*Color Section*/
 
+/* Buttons Section*/
+
+.col.buttons.left {
+  text-align: right;
+}
+
+.col.buttons.right {
+  text-align: left;
+}
+.col.buttons button {
+  margin: 12px;
+  padding: 12px;
+  width: 162px;
+  border-radius: 7px;
+}
+
+.button1Normal {
+  color: #fff;
+  border: 1px solid #f5743d;
+  background-color: #f5743d;
+  transition: all 200ms ease-in-out;
+  box-shadow: 5px 5px 4px hsla(328, 52%, 10%, 0.582);
+}
+
+.button1Normal:hover {
+  background-color: #f05d23;
+  color: #fff;
+}
+
+.button1Hover {
+  border: 1px solid #f05d23;
+  background-color: #f05d23;
+  color: #fff;
+  box-shadow: 5px 5px 4px hsla(328, 52%, 10%, 0.582);
+}
+
+.button2Normal {
+  border: 1px solid #009b9b;
+  background-color: #009b9b;
+  color: #fff;
+  transition: all 150ms ease-in-out;
+  box-shadow: 5px 5px 4px hsla(328, 52%, 10%, 0.582);
+}
+
+.button2Normal:hover {
+  border: 1px solid #008080;
+  background-color: #008080;
+  color: #fff;
+}
+.button2Hover {
+  border: 1px solid #008080;
+  background-color: #008080;
+  color: #fff;
+  box-shadow: 5px 5px 4px hsla(328, 52%, 10%, 0.582);
+}
+
+.button4Normal {
+  border: 1px solid #e7cbb9;
+  background-color: #e7cbb9;
+  box-shadow: 5px 5px 4px hsla(328, 52%, 10%, 0.582);
+}
+.button4Normal:hover {
+  border: 1px solid #f05d2307;
+  background-color: #f05d2383;
+  transition: all 200ms ease-in-out;
+}
+.button4Hover {
+  border: 1px solid #f05d2307;
+  background-color: #f05d2383;
+  box-shadow: 5px 5px 4px hsla(328, 52%, 10%, 0.582);
+}
+
+.button3Normal {
+  border: 1px solid #c5d86d;
+  background-color: #c5d86d;
+  transition: all 200ms ease-in-out;
+  box-shadow: 5px 5px 4px hsla(328, 52%, 10%, 0.582);
+}
+.button3Normal:hover {
+  border: 1px solid #abbe74;
+  background-color: #abbe74;
+}
+
+.button3Hover {
+  border: 1px solid #abbe74;
+  box-shadow: 5px 5px 4px hsla(328, 52%, 10%, 0.582);
+  background-color: #abbe74;
+}
+
+/* Buttons*/
+
 /* Icon Section*/
 
 .icon {
