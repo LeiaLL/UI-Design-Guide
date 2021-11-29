@@ -200,3 +200,21 @@ a {
   font-size: 16px;
 }
 /*Color Section*/
+
+/* Icon Section*/
+
+.icon {
+  font-size: 28px;
+  margin: 5px;
+}
+
+.icon:hover {
+  font-size: 35px;
+  color: #f05d23b7;
+}
+
+.iconList {
+  margin: 15px 0;
+}
+
+/* Icon Section*/
