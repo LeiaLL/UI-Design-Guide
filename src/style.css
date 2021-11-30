@@ -333,3 +333,31 @@ input.form-control.password {
   width: 300px;
 }
 /* Forms Section*/
+
+/* Nav Bar Section*/
+.navbar {
+  border: 1px solid #260c1a;
+  background-color: #c5d86d;
+  color: #260c1a;
+  font-family: "Mulish", sans-serif;
+}
+.nav-link {
+  color: #000;
+}
+
+.nav-link:hover {
+  color: #260c1a;
+  font-size: 18px;
+}
+
+.navbar-brand {
+  color: #260c1a;
+}
+.navbar-brand:hover {
+  color: #260c1a;
+}
+
+.input.form-control.me-2 {
+  border: 1px solid #c5d86d;
+}
+/* Nav Bar Section*/
